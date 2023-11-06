@@ -16,3 +16,5 @@ jobs:
           git clone https://github.com/ChazTech3030/wmca_terraform_demo.git
           cd ./wmca_terraform_demo
           terraform init
+
+
